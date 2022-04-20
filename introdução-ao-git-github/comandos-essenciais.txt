@@ -1,6 +1,6 @@
-git init - adiciona um repositório git
-git status - mostra o status atual do diretório onde se encontra
-git add - adiciona a modificação que voce fez
-git commit -m - adiciona a modificação como commit
+git init - adiciona um repositório git;
+git status - mostra o status atual do diretório onde se encontra;
+git add - adiciona a modificação que voce fez;
+git commit -m - adiciona a modificação como commit;
  
 
